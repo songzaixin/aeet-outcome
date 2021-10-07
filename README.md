@@ -12,11 +12,11 @@
 
 | Scholar Profile | URL |
 | :------------ | :------------- |
-| ORCID: | https://orcid.org/0000-0002-0599-3350 |
-| Google Scholar: | https://scholar.google.com.sg/citations?user=UG4AS6wAAAAJ&hl=en |
-| Research Gate: | https://www.researchgate.net/profile/Zaixin_Song|
-| Elsevier Scopus: | https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57193017589&zone= |
-| CityU Scholar: | https://scholars.cityu.edu.hk/en/persons/zaixin-song(05e9fe51-3392-4162-af58-a1600e3519f5).html |
+| ORCID: | [⇲](https://orcid.org/0000-0002-0599-3350) |
+| Google Scholar: | [⇲](https://scholar.google.com.sg/citations?user=UG4AS6wAAAAJ&hl=en) |
+| Research Gate: | [⇲](https://www.researchgate.net/profile/Zaixin_Song) |
+| Elsevier Scopus: | [⇲](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57193017589&zone=) |
+| CityU Scholar: | [⇲](https://scholars.cityu.edu.hk/en/persons/zaixin-song(05e9fe51-3392-4162-af58-a1600e3519f5).html) |
 
 ---
 
@@ -107,44 +107,53 @@ Application Code: 202130145953.8; Application Date: 18-Mar-2021.
 ## Academic Awards
 
 * Award Date: 1 Sep 2020
-Award Title: **Chow Yei Ching School of Graduate Studies Scholarships** (for non-local students) in City University of Hong Kong
-Related Unit: Chow Yei Ching School of Graduate Studies, City University of Hong Kong
+* Award Title: **Chow Yei Ching School of Graduate Studies Scholarships** (for non-local students) in City University of Hong Kong
+* Related Unit: Chow Yei Ching School of Graduate Studies, City University of Hong Kong
+
 
 * Award Date: 16 Aug 2020
-Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong
-Related Unit: School of Energy and Environment, City University of Hong Kong
+* Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong
+* Related Unit: School of Energy and Environment, City University of Hong Kong
+
 
 * Award Date: 31 Dec 2019
-Award Title: Innovation and Creativity Award for Shanghai-Hong Kong Student Union Innovation Camp
-Related Unit: City University of Hong Kong; Tongji University
+* Award Title: Innovation and Creativity Award for Shanghai-Hong Kong Student Union Innovation Camp
+* Related Unit: City University of Hong Kong; Tongji University
+
 
 * Award Date: 1 Sep 2019
-Award Title: **Research Tuition Scholarship** in City University of Hong Kong
-Related Unit: School of Energy and Environment, City University of Hong Kong
+* Award Title: **Research Tuition Scholarship** in City University of Hong Kong
+* Related Unit: School of Energy and Environment, City University of Hong Kong
+
 
 * Award Date: 16 Aug 2019
-Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong
-Related Unit: School of Energy and Environment, City University of Hong Kong
+* Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong
+* Related Unit: School of Energy and Environment, City University of Hong Kong
+
 
 * Award Date: Sep 2016
-Award Title: **First-class Scholarship for Postgraduates** in HIT 
-Related Unit: Graduate School, Harbin Institute of Technology
+* Award Title: **First-class Scholarship for Postgraduates** in HIT 
+* Related Unit: Graduate School, Harbin Institute of Technology
+
 
 * Award Date: Sep 2016
-Award Title: **Second-class Scholarship for Outstanding Postgraduates** in HIT 
-Related Unit: Graduate School, Harbin Institute of Technology
+* Award Title: **Second-class Scholarship for Outstanding Postgraduates** in HIT 
+* Related Unit: Graduate School, Harbin Institute of Technology
+
 
 * Award Date: Jul-2016
-Award Title: **Outstanding Bachelor Degree Thesis** in HIT 
-Related Unit: Department of Electrical Engineering and Automation, Harbin Institute of Technology
+* Award Title: **Outstanding Bachelor Degree Thesis** in HIT 
+* Related Unit: Department of Electrical Engineering and Automation, Harbin Institute of Technology
+
 
 * Award Date: Dec-2013
-Award Title: **Outstanding Student Award** in HIT
-Related Unit: Harbin Institute of Technology
+* Award Title: **Outstanding Student Award** in HIT
+* Related Unit: Harbin Institute of Technology
+
 
 * Award Date: Nov-2013
-Award Title: **National Scholarship for Undergraduates**
-Related Unit: Harbin Institute of Technology
+* Award Title: **National Scholarship for Undergraduates**
+* Related Unit: Harbin Institute of Technology
 
 ---
 
