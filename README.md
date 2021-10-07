@@ -106,6 +106,16 @@ Application Code: 202130145953.8; Application Date: 18-Mar-2021.
 
 ## Academic Awards
 
+<div align=center>
+<img src="https://github.com/songzaixin/cv-outcome/raw/main/image/award-202008-cycsgs.jpg" alt="image-award" style="zoom:12.5%;" />
+<img src="https://github.com/songzaixin/cv-outcome/raw/main/image/award-202008-oapa.jpg" alt="image-award" style="zoom:12.5%;" />
+<img src="https://github.com/songzaixin/cv-outcome/raw/main/image/award-201912-shanghai-hongkong-innocamp.jpg" alt="image-award" style="zoom:12.5%;" />
+</div>
+<div align=center>
+<img src="https://github.com/songzaixin/cv-outcome/raw/main/image/award-201908-oapa.jpg" alt="image-award" style="zoom:12.5%;" />
+<img src="https://github.com/songzaixin/cv-outcome/raw/main/image/award-201807-hit-graduate-2nd.jpg" alt="image-award" style="zoom:12.5%;" />
+</div>
+
 * (1 Sep 2020) Award Title: **Chow Yei Ching School of Graduate Studies Scholarships** (for non-local students) in City University of Hong Kong; Related Unit: Chow Yei Ching School of Graduate Studies, City University of Hong Kong
 
 * (16 Aug 2020) Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong; Related Unit: School of Energy and Environment, City University of Hong Kong
