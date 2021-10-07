@@ -11,7 +11,7 @@
 ---
 
 | Scholar Profile | URL |
-| ------------- | ------------- |
+| :------------ | :------------- |
 | ORCID: | https://orcid.org/0000-0002-0599-3350 |
 | Google Scholar: | https://scholar.google.com.sg/citations?user=UG4AS6wAAAAJ&hl=en |
 | Research Gate: | https://www.researchgate.net/profile/Zaixin_Song|
@@ -65,6 +65,86 @@
 1. ***Z. Song***, C. Liu, and H. Zhao, "Comparative Analysis of Slotless and Coreless Permanent Magnet Synchronous Machines for Electric Aircraft Propulsion," in *2019 22nd International Conference on Electrical Machines and Systems (ICEMS)*, 2019, pp. 1-6.
 1. ***Z. Song***, Y. Pei, Y. Li, S. Li, and F. Chai, "Analysis of Vibration in Modular Fault-tolerant PMSM under One-phase Open-circuit Fault," in *2018 XIII International Conference on Electrical Machines (ICEM)*, 2018, pp. 2565-2571.
 1. Y. Li, Y. Pei, ***Z. Song***, and F. Chai, "Effect of rotor deformation on magnetic radial force in interior permanent magnet synchronous motors with V-shaped rotor structures," in *IECON 2016 - 42nd Annual Conference of the IEEE Industrial Electronics Society*, 2016, pp. 1906-1911.
+
+---
+
+## *Patents*
+
+* 李龙, 梁俊强, 刘许洋, 宋再新. 一种永磁无刷力矩电动机半开放式强迫风冷散热结构. 中国. **(Retrieved)**
+Application Code: CN202011539645.4; Public Code: CN112531972A; 
+Application Date: 23-Dec-2020; Public Date: 19-Mar-2021.
+
+* 李龙, 梁俊强, 刘许洋, 宋再新. 一种适用于双定子永磁无刷力矩电动机的绕组结构. 中国. **(Retrieved)**
+Application Code: CN202011535655.0; Public Code: CN112532003A; 
+Application Date: 23-Dec-2020; Public Date: 19-Mar-2021.
+
+* 李龙, 梁俊强, 刘许洋, 宋再新. 一种永磁无刷直流电机的连轴位置反馈结构. 中国. **(Accepted)**
+Application Code: 202120345937.8; Application Date: 5-Feb-2021. 
+
+* 李龙, 梁俊强, 刘许洋, 宋再新. 一种无刷马达用内部磁位置反馈结构. 中国. **(Accepted)**
+Application Code: 202120602899.X; Application Date: 24-Mar-2021. 
+
+* 李龙, 梁俊强, 刘许洋, 宋再新. 一种内埋式复合永磁体式双定子无刷电动机拓扑结构. 中国. **(Accepted)**
+Application Code: 202120602324.8; Application Date: 24-Mar-2021. 
+
+* 李龙, 梁俊强, 刘许洋, 宋再新. 一种适用于无刷马达的定子全方位紧固结构. 中国. **(Accepted)**
+Application Code: 202120634312.3; Application Date: 24-Mar-2021. 
+
+* 李龙, 梁俊强, 刘许洋, 宋再新. 无刷电机(PMM-S01). 中国. **(Retrieved)**
+Application Code: 202130086605.8; Application Date: 5-Feb-2021. 
+
+* 李龙, 梁俊强, 刘许洋, 宋再新. 无刷电机(PMM-R01). 中国. **(Accepted)**
+Application Code: 202130101079.8; Application Date: 22-Feb-2021. 
+
+* 李龙, 梁俊强, 刘许洋, 宋再新. 无刷电机(PMM-RW02). 中国. **(Accepted)**
+Application Code: 202130101080.0; Application Date: 22-Feb-2021. 
+
+* 李龙, 梁俊强, 刘许洋, 宋再新. 新型永磁电机(PMM-SW02). 中国. **(Accepted)**
+Application Code: 202130145953.8; Application Date: 18-Mar-2021. 
+
+---
+
+## Academic Awards
+
+* Award Date: 1 Sep 2020
+Award Title: **Chow Yei Ching School of Graduate Studies Scholarships** (for non-local students) in City University of Hong Kong
+Related Unit: Chow Yei Ching School of Graduate Studies, City University of Hong Kong
+
+* Award Date: 16 Aug 2020
+Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong
+Related Unit: School of Energy and Environment, City University of Hong Kong
+
+* Award Date: 31 Dec 2019
+Award Title: Innovation and Creativity Award for Shanghai-Hong Kong Student Union Innovation Camp
+Related Unit: City University of Hong Kong; Tongji University
+
+* Award Date: 1 Sep 2019
+Award Title: **Research Tuition Scholarship** in City University of Hong Kong
+Related Unit: School of Energy and Environment, City University of Hong Kong
+
+* Award Date: 16 Aug 2019
+Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong
+Related Unit: School of Energy and Environment, City University of Hong Kong
+
+* Award Date: Sep 2016
+Award Title: **First-class Scholarship for Postgraduates** in HIT 
+Related Unit: Graduate School, Harbin Institute of Technology
+
+* Award Date: Sep 2016
+Award Title: **Second-class Scholarship for Outstanding Postgraduates** in HIT 
+Related Unit: Graduate School, Harbin Institute of Technology
+
+* Award Date: Jul-2016
+Award Title: **Outstanding Bachelor Degree Thesis** in HIT 
+Related Unit: Department of Electrical Engineering and Automation, Harbin Institute of Technology
+
+* Award Date: Dec-2013
+Award Title: **Outstanding Student Award** in HIT
+Related Unit: Harbin Institute of Technology
+
+* Award Date: Nov-2013
+Award Title: **National Scholarship for Undergraduates**
+Related Unit: Harbin Institute of Technology
 
 ---
 
