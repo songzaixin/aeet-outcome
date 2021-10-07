@@ -106,54 +106,25 @@ Application Code: 202130145953.8; Application Date: 18-Mar-2021.
 
 ## Academic Awards
 
-* Award Date: 1 Sep 2020
-* Award Title: **Chow Yei Ching School of Graduate Studies Scholarships** (for non-local students) in City University of Hong Kong
-* Related Unit: Chow Yei Ching School of Graduate Studies, City University of Hong Kong
+* (1 Sep 2020) Award Title: **Chow Yei Ching School of Graduate Studies Scholarships** (for non-local students) in City University of Hong Kong; Related Unit: Chow Yei Ching School of Graduate Studies, City University of Hong Kong
 
+* (16 Aug 2020) Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong; Related Unit: School of Energy and Environment, City University of Hong Kong
 
-* Award Date: 16 Aug 2020
-* Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong
-* Related Unit: School of Energy and Environment, City University of Hong Kong
+* (31 Dec 2019) Award Title: Innovation and Creativity Award for Shanghai-Hong Kong Student Union Innovation Camp; Related Unit: City University of Hong Kong; Tongji University
 
+* (1 Sep 2019) Award Title: **Research Tuition Scholarship** in City University of Hong Kong; Related Unit: School of Energy and Environment, City University of Hong Kong
 
-* Award Date: 31 Dec 2019
-* Award Title: Innovation and Creativity Award for Shanghai-Hong Kong Student Union Innovation Camp
-* Related Unit: City University of Hong Kong; Tongji University
+* (16 Aug 2019) Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong; Related Unit: School of Energy and Environment, City University of Hong Kong
 
+* (Sep 2016) Award Title: **First-class Scholarship for Postgraduates** in HIT; Related Unit: Graduate School, Harbin Institute of Technology
 
-* Award Date: 1 Sep 2019
-* Award Title: **Research Tuition Scholarship** in City University of Hong Kong
-* Related Unit: School of Energy and Environment, City University of Hong Kong
+* (Sep 2016) Award Title: **Second-class Scholarship for Outstanding Postgraduates** in HIT; Related Unit: Graduate School, Harbin Institute of Technology
 
+* (Jul-2016) Award Title: **Outstanding Bachelor Degree Thesis** in HIT; Related Unit: Department of Electrical Engineering and Automation, Harbin Institute of Technology
 
-* Award Date: 16 Aug 2019
-* Award Title: **Outstanding Academic Performance Award for Research Degree Students** (non-local UGC-funded students) in City University of Hong Kong
-* Related Unit: School of Energy and Environment, City University of Hong Kong
+* (Dec-2013) Award Title: **Outstanding Student Award** in HIT; Related Unit: Harbin Institute of Technology
 
-
-* Award Date: Sep 2016
-* Award Title: **First-class Scholarship for Postgraduates** in HIT 
-* Related Unit: Graduate School, Harbin Institute of Technology
-
-
-* Award Date: Sep 2016
-* Award Title: **Second-class Scholarship for Outstanding Postgraduates** in HIT 
-* Related Unit: Graduate School, Harbin Institute of Technology
-
-
-* Award Date: Jul-2016
-* Award Title: **Outstanding Bachelor Degree Thesis** in HIT 
-* Related Unit: Department of Electrical Engineering and Automation, Harbin Institute of Technology
-
-
-* Award Date: Dec-2013
-* Award Title: **Outstanding Student Award** in HIT
-* Related Unit: Harbin Institute of Technology
-
-
-* Award Date: Nov-2013
-* Award Title: **National Scholarship for Undergraduates**
-* Related Unit: Harbin Institute of Technology
+* (Nov-2013) Award Title: **National Scholarship for Undergraduates**; Related Unit: Harbin Institute of Technology
 
 ---
 
