@@ -4,6 +4,11 @@
 
 <center><font size=12> Zaixin SONG </font></center>
 
+# More About Me, Please See
+
+| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Team](https://songzaixin.github.io/cv-team/) |
+
+
 # Publication
 
 ## *Scholar Profile*
@@ -104,7 +109,7 @@ Application Code: 202130145953.8; Application Date: 18-Mar-2021.
 
 ---
 
-## Academic Awards
+## *Academic Awards*
 
 <div align=center>
 <img src="https://github.com/songzaixin/cv-outcome/raw/main/image/award-202008-cycsgs.jpg" alt="image-award" style="zoom:12.5%;" />
@@ -138,9 +143,6 @@ Application Code: 202130145953.8; Application Date: 18-Mar-2021.
 
 ---
 
-# More About Me, Please See
-
-| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Team](https://songzaixin.github.io/cv-team/) |
 
 # Related Organizations
 
