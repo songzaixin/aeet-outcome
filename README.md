@@ -1,210 +1,171 @@
-# Homepage  |  Dr. Zaixin Song
-
-<div align=center><img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/icon1.jpg" alt="image-icon1" style="zoom:25%;" /></div>
-
-<center><font size=12> Zaixin SONG </font></center>
-
-# More About Me, Please See
-
-| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Activity](https://songzaixin.github.io/cv-activity/) | [Team](https://songzaixin.github.io/cv-team/) |
+# Applied Energy & Electromagnetic Technology (AEET) Lab
 
 ---
+
+| [Home](https://songzaixin.github.io/aeet-home/)  | [Research](https://songzaixin.github.io/aeet-research/) | [Outcome](https://songzaixin.github.io/aeet-outcome/) | [Teaching](https://songzaixin.github.io/aeet-teaching/) | [People](https://songzaixin.github.io/aeet-people/) | [Activity](https://songzaixin.github.io/aeet-activity/) | [Join Us](https://songzaixin.github.io/aeet-joinus/) |
 
 ---
 
 # Publications
 
-## Overview
+## *Overview:*
 
-| Academic Homepage | Url                                             |
-| ----------------- | ----------------------------------------------- |
-| ORCID:            | [[View]](https://orcid.org/0000-0002-0599-3350) |
-| Google Scholar:   | [[View]](https://scholar.google.com.sg/citations?user=UG4AS6wAAAAJ&hl=en) |
-| Research Gate:    | [[View]](https://www.researchgate.net/profile/Zaixin-Song-2) |
-| Elsevier Scopus:  | [[View]](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57193017589&zone=) |
-| SciProfiles:      | [[View]](https://sciprofiles.com/profile/687894) |
-| Publons Profiles: | [[View]](https://publons.com/researcher/1647285/zaixin-song/) |
+| **Academic Homepage** | **Url**                                                      |
+| :-------------------- | :----------------------------------------------------------- |
+| ORCID:                | [[View]](https://orcid.org/0000-0002-0599-3350)              |
+| Google Scholar:       | [[View]](https://scholar.google.com.sg/citations?user=UG4AS6wAAAAJ&hl=en) |
+| Research Gate:        | [[View]](https://www.researchgate.net/profile/Zaixin-Song-2) |
+| Elsevier Scopus:      | [[View]](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57193017589&zone=) |
+| SciProfiles:          | [[View]](https://sciprofiles.com/profile/687894)             |
+| Web of Science:       | [[View]](https://www.webofscience.com/wos/author/record/708864) |
 
 <div align=left>
-<img src="https://github.com/songzaixin/cv-outcome/raw/255985f8a3a9915acf18cdc054dd69bebc6f3019/image/outcome-overview.jpg" alt="image-outcome-overview" style="zoom:100%;" />
+<img src="https://github.com/songzaixin/aeet-outcome/raw/main/image/outcome-overview.png" alt="image-outcome-overview" style="zoom:100%;" />
 </div>
 
-## *Selected Publications (**34** Journal Articles + **11** Conference Papers):*
+## *Selected Journal Articles:*
 
-[1]  Z. Song, C. Liu, Y. Chen, and R. Huang, "Air-gap Permeance and Reluctance Network Models for Analyzing Vibrational Exciting Force of In-wheel PMSM," *IEEE Transactions on Vehicular Technology,* pp. 1-1, 2022.
+[1]   **Z. Song**, R. Huang, W. Wang, Z. Dong and C. Liu, "Harmonic Current Control of OW-PMSM for Low-Voltage Traction by Nonlinear Disturbance Rejection with Improved Modulation Scheme," *IEEE Transactions on Vehicular Technology,* 2022, (Early Access), doi: 10.1109/TVT.2022.3216543. *(SCI, IF=6.239, JCR=Q1)*
 
-[2]  Z. Song, C. Liu, Z. Dong, and R. Huang, "Improved Multi-Stage Decoupling Space Vector Modulation for Asymmetrical Multi-Phase PMSM with Series Winding Connection," *IEEE Transactions on Power Electronics,* pp. 1-1, 2022.
+[2]   **Z. Song** and C. Liu, "Electric Machine Design by a Novel Fast Model Predictive Optimization Strategy Treating Dimension-Expensive Problem," *IEEE Transactions on Transportation Electrification,* 2022, (Early Access), doi: 10.1109/TTE.2022.3215782. *(SCI, IF=6.519, JCR=Q1)*
 
-[3]  W. Wang, Z. Song, Y. Liu, and C. Liu, "Decoupled Modulation Scheme for Harmonic Current Suppression in Five-Phase PMSM," *IEEE Transactions on Power Electronics,* pp. 1-1, 2022.
+[3]   **Z. Song**, Z. Dong, W. Wang, S. Liu and C. Liu, "A Novel Modulation Strategy for Asymmetrical Six-Phase Series-Winding PMSM Based on Predictive Controller," *IEEE Transactions on Industrial Electronics,* vol. 70, no. 6, pp. 5592-5603, June 2023, doi: 10.1109/TIE.2022.3199861. *(SCI, IF=8.162, JCR=Q1)* 
 
-[4]  R. Huang, Z. Song, H. Zhao, and C. Liu, "Overview of Axial-Flux Machines and Modeling Methods," *IEEE Transactions on Transportation Electrification,* pp. 1-1, 2022.
+[4]   **Z. Song** and C. Liu, "Energy efficient design and implementation of electric machines in air transport propulsion system," *Applied Energy*, vol. 322, p. 119472, 2022/09/15/ 2022, doi: https://doi.org/10.1016/j.apenergy.2022.119472. *(SCI, IF=11.446, JCR=Q1)*
 
-[5]  B. Zhang, Z. Song, F. Zhao, and C. Liu, "Overview of Propulsion Systems for Unmanned Aerial Vehicles," *Energies,* vol. 15, no. 2, 2022.
+[5]   **Z. Song**, R. Huang, W. Wang, S. Liu and C. Liu, "An Improved Dual Iterative Transient Thermal Network Model for PMSM With Natural Air Cooling," *IEEE Transactions on Energy Conversion,* vol. 37, no. 4, pp. 2588-2600, Dec. 2022, doi: 10.1109/TEC.2022.3179172. *(SCI, IF=4.877, JCR=Q1)*
 
-[6]  H. Zhao, K. T. Chau, T. Yang, Z. Song, and C. Liu, "A Novel Quasi-3D Analytical Model for Axial Flux Motors Considering Magnetic Saturation," *IEEE Transactions on Energy Conversion,* pp. 1-1, 2021.
+[6]   **Z. Song**, C. Liu, Y. Chen, and R. Huang, "Air-Gap Permeance and Reluctance Network Models for Analyzing Vibrational Exciting Force of In-Wheel PMSM," *IEEE Transactions on Vehicular Technology,* vol. 71, no. 7, pp. 7122-7133, 2022, doi: 10.1109/TVT.2022.3167131. *(SCI, IF=6.239, JCR=Q1)*
 
-[7]  Z. Song, C. Liu, H. Zhao, and R. Huang, "Nonlinear Force and Vibration Analysis of an Interior Permanent Magnet Synchronous Generator With Eccentricity Detection," *IEEE/ASME Transactions on Mechatronics,* pp. 1-11, 2021.
+[7]   **Z. Song**, C. Liu, Z. Dong, and R. Huang, "Improved Multi-Stage Decoupling Space Vector Modulation for Asymmetrical Multi-Phase PMSM With Series Winding Connection," *IEEE Transactions on Power Electronics,* vol. 37, no. 9, pp. 10951-10966, 2022, doi: 10.1109/TPEL.2022.3163275. *(SCI, IF=5.967, JCR=Q1)*
 
-[8]  H. Zhao, C. Liu, Z. Song, and S. Liu, "Analysis and Design Considerations of a Dual-Rotor Multiple-Winding Machine," *IEEE Transactions on Industrial Electronics,* pp. 1-1, 2021.
+[8]   **Z. Song**, C. Liu, H. Zhao and R. Huang, "Nonlinear Force and Vibration Analysis of an Interior Permanent Magnet Synchronous Generator With Eccentricity Detection," *IEEE/ASME Transactions on Mechatronics,* vol. 27, no. 5, pp. 2545-2555, Oct. 2022, doi: 10.1109/TMECH.2021.3118316. *(SCI, IF=5.867, JCR=Q1)*
 
-[9]  H. Zhao, C. Liu, Z. Song, and S. Liu, "Design and Control of A New Compound Double-Rotor Electric Machine for Hybrid Propulsion System," *IEEE Transactions on Power Electronics,* pp. 1-1, 2021.
+[9]   **Z. Song**, C. Liu, and H. Zhao, "Exact Multiphysics Modeling and Experimental Validation of Spoke-Type Permanent Magnet Brushless Machines," *IEEE Transactions on Power Electronics,* vol. 36, no. 10, pp. 11658-11671, 2021, doi: 10.1109/TPEL.2021.3069922. *(SCI, IF=5.967, JCR=Q1)*
 
-[10] S. Liu, C. Liu, Z. Song, Z. Dong, and Y. Huang, "Candidate Modulation Patterns Solution for Five-Phase PMSM Drive System," *IEEE Transactions on Transportation Electrification,* pp. 1-1, 2021.
+[10]  **Z. Song**, C. Liu, S. Liu, and W. Wang, "Active Harmonic Suppression of Low-Reactance Multiphase Slotless Permanent Magnet Synchronous Machines," *IEEE Journal of Emerging and Selected Topics in Power Electronics,* vol. 10, no. 2, pp. 1777-1787, 2022, doi: 10.1109/JESTPE.2021.3050353. *(SCI, IF=5.462, JCR=Q1)*
 
-[11] Z. Dong, C. Liu, Z. Song, and S. Liu, "Suppression of Dual Harmonic Components for Five-Phase Series-Winding PMSM," *IEEE Transactions on Transportation Electrification,* pp. 1-1, 2021.
+[11]  **Z. Song**, C. Liu, F. Chai, and H. Zhao, "Modular Design of an Efficient Permanent Magnet Vernier Machine," *IEEE Transactions on Magnetics,* vol. 56, no. 2, pp. 1-6, 2020, doi: 10.1109/TMAG.2019.2947137. *(SCI, IF=1.848, JCR=Q3)*
 
-[12] Z. Song, C. Liu, and H. Zhao, "Exact Multiphysics Modeling and Experimental Validation of Spoke-Type Permanent Magnet Brushless Machines," *IEEE Transactions on Power Electronics,* vol. 36, no. 10, pp. 11658-11671, 2021.
+[12]  **Z. Song**, C. Liu, K. Feng, H. Zhao, and J. Yu, "Field Prediction and Validation of a Slotless Segmented-Halbach Permanent Magnet Synchronous Machine for More Electric Aircraft," *IEEE Transactions on Transportation Electrification,* vol. 6, no. 4, pp. 1577-1591, 2020, doi: 10.1109/TTE.2020.2982733. *(SCI, IF=6.519, JCR=Q1)*
 
-[13] Z. Song, C. Liu, S. Liu, and W. Wang, "Active Harmonic Suppression of Low-Reactance Multiphase Slotless Permanent Magnet Synchronous Machines," *IEEE Journal of Emerging and Selected Topics in Power Electronics,* vol. 10, no. 2, pp. 1777-1787, 2022.
+[13]  **Z. Song**, C. Liu, and H. Zhao, "Investigation on Magnetic Force of a Flux-Modulated Double-Rotor Permanent Magnet Synchronous Machine for Hybrid Electric Vehicle," *IEEE Transactions on Transportation Electrification,* vol. 5, no. 4, pp. 1383-1394, 2019, doi: 10.1109/TTE.2019.2946494. *(SCI, IF=6.519, JCR=Q1)*
 
-[14] Z. Dong, C. Liu, S. Liu, and Z. Song, "Deadbeat Predictive Current Control for Series-Winding PMSM Drive with Half-Bridge Power Module-Based Inverter," *Energies,* vol. 14, no. 15, 2021.
+[14]  **Z. Song**, C. Liu, and H. Zhao, "Quantitative Comparison of Distinct Dual-Stator Permanent Magnet Vernier Machines for Direct-Drive Applications," *IEEE Transactions on Magnetics,* vol. 55, no. 7, pp. 1-6, 2019, doi: 10.1109/TMAG.2019.2914718. *(SCI, IF=1.848, JCR=Q3)*
 
-[15] R. Huang, C. Liu, Z. Song, and H. Zhao, "Design and Analysis of a Novel Axial-Radial Flux Permanent Magnet Machine with Halbach-Array Permanent Magnets," *Energies,* vol. 14, no. 12, 2021.
+[15]  **Z. Song**, Y. Yu, F. Chai, and Y. Tang, "Radial Force and Vibration Calculation for Modular Permanent Magnet Synchronous Machine With Symmetrical and Asymmetrical Open-Circuit Faults," *IEEE Transactions on Magnetics,* vol. 54, no. 11, pp. 1-5, 2018, doi: 10.1109/TMAG.2018.2848724. *(SCI, IF=1.848, JCR=Q3)*
 
-[16] H. Zhao, C. Liu, Z. Song, and W. Wang, "Exact Modeling and Multiobjective Optimization of Vernier Machines," *IEEE Transactions on Industrial Electronics,* vol. 68, no. 12, pp. 11740-11751, 2021.
+## *Selected Conference Papers:*
 
-[17] C. Liu, K. T. Chau, C. H. T. Lee, and Z. Song, "A Critical Review of Advanced Electric Machines and Control Strategies for Electric Vehicles," *Proceedings of the IEEE,* vol. 109, no. 6, pp. 1004-1028, 2021.
+[1]   **Z. Song**, C. Liu, and H. Zhao, "Improved Torque Density of a Permanent Magnet Brushless AC Motor with Novel Pulse Width Modulation Magnet for Electrified Application," in *IECON 2020 The 46th Annual Conference of the IEEE Industrial Electronics Society*, 2020, pp. 4691-4696, doi: 10.1109/IECON43393.2020.9255217. 
 
-[18] H. Zhao, C. Liu, Z. Song, and J. Yu, "A Fast Optimization Scheme of Coaxial Magnetic Gears Based on Exact Analytical Model Considering Magnetic Saturation," *IEEE Transactions on Industry Applications,* pp. 1-1, 2020.
+[2]   **Z. Song** and C. Liu, "Induced Voltage Optimization of a Direct-Drive Multi-Phase Permanent Magnet Vernier Generator for Tidal Energy Conversion," in *2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)*, 2019, pp. 1-5, doi: 10.1109/APPEEC45492.2019.8994634.
 
-[19] W. Wang, C. Liu, S. Liu, Z. Song, H. Zhao, and B. Dai, "Current Harmonic Suppression for Permanent-Magnet Synchronous Motor Based on Chebyshev Filter and PI Controller," *IEEE Transactions on Magnetics,* vol. 57, no. 2, pp. 1-6, 2021.
+[3]   **Z. Song**, C. Liu, and H. Zhao, "Comparative Analysis of Slotless and Coreless Permanent Magnet Synchronous Machines for Electric Aircraft Propulsion," in *2019 22nd International Conference on Electrical Machines and Systems (ICEMS)*, 2019, pp. 1-6, doi: 10.1109/ICEMS.2019.8921494.
 
-[20] H. Zhao, C. Liu, Z. Song, W. Wang, and T. Lubin, "A Dual-Modulator Magnetic-Geared Machine for Tidal-Power Generation," *IEEE Transactions on Magnetics,* vol. 56, no. 8, pp. 1-7, 2020.
-
-[21] J. Yu, C. Liu, Z. Song, and H. Zhao, "Permeance and Inductance Modeling of a Double-Stator Hybrid-Excited Flux-Switching Permanent-Magnet Machine," *IEEE Transactions on Transportation Electrification,* vol. 6, no. 3, pp. 1134-1145, 2020.
-
-[22] H. Zhao, C. Liu, Z. Song, and W. Wang, "Analytical Modeling of a Double-Rotor Multiwinding Machine for Hybrid Aircraft Propulsion," *IEEE Transactions on Transportation Electrification,* vol. 6, no. 4, pp. 1537-1550, 2020.
-
-[23] Z. Song, C. Liu, K. Feng, H. Zhao, and J. Yu, "Field Prediction and Validation of a Slotless Segmented-Halbach Permanent Magnet Synchronous Machine for More Electric Aircraft," *IEEE Transactions on Transportation Electrification,* vol. 6, no. 4, pp. 1577-1591, 2020.
-
-[24] Z. Song, C. Liu, F. Chai, and H. Zhao, "Modular Design of an Efficient Permanent Magnet Vernier Machine," *IEEE Transactions on Magnetics,* vol. 56, no. 2, pp. 1-6, 2020.
-
-[25] H. Zhao, C. Liu, and Z. Song, "Design of an Effective Double-Rotor Machine With Robust Mechanical Structure," *IEEE Transactions on Magnetics,* vol. 56, no. 1, pp. 1-7, 2020.
-
-[26] Z. Song, C. Liu, and H. Zhao, "Investigation on Magnetic Force of a Flux-Modulated Double-Rotor Permanent Magnet Synchronous Machine for Hybrid Electric Vehicle," *IEEE Transactions on Transportation Electrification,* vol. 5, no. 4, pp. 1383-1394, 2019.
-
-[27] H. Zhao, C. Liu, Z. Song, S. Liu, and T. Lubin, "Analytical model for magnetic-geared double-rotor machines and its d–q-axis determination," *IET Electric Power Applications*, vol. 14, no. 2*,* pp. 175-183Available: https://digital-library.theiet.org/content/journals/10.1049/iet-epa.2019.0597
-
-[28] Z. Song, C. Liu, and H. Zhao, "Quantitative Comparison of Distinct Dual-Stator Permanent Magnet Vernier Machines for Direct-Drive Applications," *IEEE Transactions on Magnetics,* vol. 55, no. 7, pp. 1-6, 2019.
-
-[29] H. Zhao, C. Liu, Z. Song, and S. Liu, "A Consequent-Pole PM Magnetic-Geared Double-Rotor Machine With Flux-Weakening Ability for Hybrid Electric Vehicle Application," *IEEE Transactions on Magnetics,* vol. 55, no. 7, pp. 1-7, 2019.
-
-[30] K. Feng, C. Liu, and Z. Song, "Hour-Ahead Energy Trading Management with Demand Forecasting in Microgrid Considering Power Flow Constraints," *Energies,* vol. 12, no. 18, 2019.
-
-[31] H. Zhao, C. Liu, Z. Song, and J. Yu, "Analytical Modeling and Comparison of Two Consequent-Pole Magnetic-Geared Machines for Hybrid Electric Vehicles," *Energies,* vol. 12, no. 10, 2019.
-
-[32] Z. Song, Y. Yu, F. Chai, and Y. Tang, "Radial Force and Vibration Calculation for Modular Permanent Magnet Synchronous Machine With Symmetrical and Asymmetrical Open-Circuit Faults," *IEEE Transactions on Magnetics,* vol. 54, no. 11, pp. 1-5, 2018.
-
-[33] Y. Yu, P. Zhang, Z. Song, and F. Chai, "Composite differential evolution algorithm for SHM with low carrier ratio," *IET Power Electronics*, vol. 11, no. 6*,* pp. 1101-1109Available: https://digital-library.theiet.org/content/journals/10.1049/iet-pel.2017.0588
-
-[34] Y. Li, F. Chai, Z. Song, and Z. Li, "Analysis of Vibrations in Interior Permanent Magnet Synchronous Motors Considering Air-Gap Deformation," *Energies,* vol. 10, no. 9, 2017.
-
-[35] Z. Dong, C. Liu, Z. Song, S. Liu, and Y. Huang, "Zero-Sequence Current Suppression Strategy for Three-Phase Series-Winding PMSM Drive Based on Synthetic Voltage Vectors," in *34th International Electric Vehicle Symposium and Exhibition (EVS34)*, Nanjing, Jiangsu, 2021.
-
-[36] Z. Song, C. Liu, and H. Zhao, "Improved Torque Density of a Permanent Magnet Brushless AC Motor with Novel Pulse Width Modulation Magnet for Electrified Application," in *IECON 2020 The 46th Annual Conference of the IEEE Industrial Electronics Society*, 2020, pp. 4691-4696.
-
-[37] X. Gao, C. Liu, Y. Huang, and Z. Song, "Design of An UAV-Oriented Wireless Power Transfer System with Energy-Efficient Receiver," in *IECON 2020 The 46th Annual Conference of the IEEE Industrial Electronics Society*, 2020, pp. 2025-2030.
-
-[38] Z. Song and C. Liu, "Induced Voltage Optimization of a Direct-Drive Multi-Phase Permanent Magnet Vernier Generator for Tidal Energy Conversion," in *2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)*, 2019, pp. 1-5.
-
-[39] S. Liu, Z. Song, and C. Liu, "Model Predictive Torque Control without PI Function for Dual Three-phase PMSM," in *IECON 2019 - 45th Annual Conference of the IEEE Industrial Electronics Society*, 2019, vol. 1, pp. 4463-4468.
-
-[40] Y. Huang, C. Liu, Y. Xiao, S. Liu, and Z. Song, "Suppression of Resonant Frequency Drifting of Transmitter for One-to-Multiple Wireless Power Transfer System by Utilizing Hybrid Compensation Topologies in Receivers," in *2019 22nd International Conference on Electrical Machines and Systems (ICEMS)*, 2019, pp. 1-5.
-
-[41] H. Zhao, C. Liu, and Z. Song, "Exact Analytical Solution for Two Types of Magnetic Gear and Their Control," in *2019 22nd International Conference on Electrical Machines and Systems (ICEMS)*, 2019, pp. 1-6.
-
-[42] S. Li, L. Chen, Z. Song, F. Chai, Y. Tang, and G. Han, "Analysis and Suppression of Vibration in Modular Fault-Tolerant PMSM Under Single-Phase Short-Circuit Faults," in *2019 22nd International Conference on Electrical Machines and Systems (ICEMS)*, 2019, pp. 1-6.
-
-[43] Z. Song, C. Liu, and H. Zhao, "Comparative Analysis of Slotless and Coreless Permanent Magnet Synchronous Machines for Electric Aircraft Propulsion," in *2019 22nd International Conference on Electrical Machines and Systems (ICEMS)*, 2019, pp. 1-6.
-
-[44] Z. Song, Y. Pei, Y. Li, S. Li, and F. Chai, "Analysis of Vibration in Modular Fault-tolerant PMSM under One-phase Open-circuit Fault," in *2018 XIII International Conference on Electrical Machines (ICEM)*, 2018, pp. 2565-2571.
-
-[45] Y. Li, Y. Pei, Z. Song, and F. Chai, "Effect of rotor deformation on magnetic radial force in interior permanent magnet synchronous motors with V-shaped rotor structures," in *IECON 2016 - 42nd Annual Conference of the IEEE Industrial Electronics Society*, 2016, pp. 1906-1911.
+[4]   **Z. Song**, Y. Pei, Y. Li, S. Li, and F. Chai, "Analysis of Vibration in Modular Fault-tolerant PMSM under One-phase Open-circuit Fault," in *2018 XIII International Conference on Electrical Machines (ICEM)*, 2018, pp. 2565-2571, doi: 10.1109/ICELMACH.2018.8507125.
 
 ---
 
 # Patents
 
-## Overview 
+## *Overview:*
 
-In summary, there are 12 Chinese patent retrieved online, as well as 1 US patent and 2 Chinese patents accepted for application. 
+In summary, there are **<u>19 Chinese patents</u>** retrieved online, as well as **<u>1 US patent</u>** accepted for application. 
 
 ## *Selected Patents:* 
 
-[1]   Chinese Patent: 宋再新, 刘许洋, 黄永灿. 一种增磁型双调制环的磁齿轮复合电机结构. 中国. (Accepted, Application Code: 202210361164.1, Date: 2021-04-07)
+[1]   Chinese Patent: **Zaixin Song**, Xuyang Liu, Dong Lei, Yatao Lian, Yongcan Huang. 一种一体化平板直线电机结构（实用新型）. China. (Retrieved, Public Code: CN217883195U, Date: 2022-11-22)
 
-[2]   Chinese Patent: 刘许洋, 黄永灿, 宋再新. 一种双直驱混合游标执行器电机结构. 中国. (Accepted, Application Code: 202210206768.9, Date: 2021-03-04)
+[2]   Chinese Patent: Xing Mao, **Zaixin Song**, Xuyang Liu, Yiming Chen, Yongcan Huang. 一种多功能可能量回收的双向驱动拓扑结构. China. (Retrieved, Public Code: CN115333384A, Date: 2022-11-11)
 
-[3]   US Patent: Chunhua Liu, Rundong Huang, Zaixin Song. Motor. Jun 22, 2021. 
+[3]   Chinese Patent: **Zaixin Song**, Xuyang Liu, Dong Lei, Yatao Lian, Yongcan Huang. 一种一体化平板直线电机结构（发明）. China. (Retrieved, Public Code: CN115208159A, Date: 2022-10-18)
+
+[4]   Chinese Patent: Xuyang Liu, **Zaixin Song**, Dong Lei, Yongcan Huang. 一种环绕聚磁型无铁心永磁直线伺服电机. China. (Retrieved, Public Code: CN114977717A, Date: 2022-08-30)
+
+[5]   Chinese Patent: Xuyang Liu, **Zaixin Song**, Yongcan Huang. 一种增磁型双调制环的磁齿轮复合电机结构（实用新型）. China. (Retrieved, Public Code: CN217427794U, Date: 2022-09-13)
+
+[6]   Chinese Patent: Xuyang Liu, **Zaixin Song**, Yongcan Huang. 一种增磁型双调制环的磁齿轮复合电机结构（发明）. China. (Retrieved, Public Code: CN114598090A, Date: 2022-06-07)
+
+[7]   Chinese Patent: Xuyang Liu, **Zaixin Song**, Yongcan Huang. 一种双直驱混合游标执行器电机结构. China. (Retrieved, Public Code: CN114499090A, Date: 2022-05-13)
+
+[8]   US Patent: Chunhua Liu, Rundong Huang, **Zaixin Song**. Motor. Jun 22, 2021. 
  https://scholars.cityu.edu.hk/en/publications/publication(30f56efa-06bf-4868-9878-4af14ec29720).html
 
-[4]   Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 一种永磁无刷力矩电动机半开放式强迫风冷散热结构. 中国. (Retrieved, Public Code: CN112531972A, Date: 2021-03-19)
+[9]   Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 一种永磁无刷力矩电动机半开放式强迫风冷散热结构. China. (Retrieved, Public Code: CN112531972A, Date: 2021-03-19)
 
-[5]   Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 一种永磁无刷力矩电动机半开放式强迫风冷散热结构. 中国. (Retrieved, Public Code: CN213754250U, Date: 2021-07-20)
+[10]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 一种永磁无刷力矩电动机半开放式强迫风冷散热结构. China. (Retrieved, Public Code: CN213754250U, Date: 2021-07-20)
 
-[6]   Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 一种适用于双定子永磁无刷力矩电动机的绕组结构. 中国. (Retrieved, Public Code: CN112532003A, Date: 2021-03-19)
+[11]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 一种适用于双定子永磁无刷力矩电动机的绕组结构. China. (Retrieved, Public Code: CN112532003A, Date: 2021-03-19)
 
-[7]   Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 一种适用于双定子永磁无刷力矩电动机的绕组结构. 中国. (Retrieved, Public Code: CN213754281U, Date: 2021-07-20)
+[12]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 一种适用于双定子永磁无刷力矩电动机的绕组结构. China. (Retrieved, Public Code: CN213754281U, Date: 2021-07-20)
 
-[8]   Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 一种永磁无刷直流电机的连轴位置反馈结构. 中国. (Retrieved, Public Code: CN214256053U, Date: 2021-09-21)
+[13]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 一种永磁无刷直流电机的连轴位置反馈结构. China. (Retrieved, Public Code: CN214256053U, Date: 2021-09-21)
 
-[9]   Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 一种无刷马达用内部磁位置反馈结构. 中国. (Retrieved, Public Code: CN215300451U, Date: 2021-12-24)
+[14]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 一种无刷马达用内部磁位置反馈结构. China. (Retrieved, Public Code: CN215300451U, Date: 2021-12-24)
 
-[10]  Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 一种内埋式复合永磁体式双定子无刷电动机拓扑结构. 中国. (Retrieved, Public Code: CN214314991U, Date: 2021-09-28)
+[15]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 一种内埋式复合永磁体式双定子无刷电动机拓扑结构. China. (Retrieved, Public Code: CN214314991U, Date: 2021-09-28)
 
-[11]  Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 一种适用于无刷马达的定子全方位紧固结构. 中国. (Retrieved, Public Code: CN214543827U, Date: 2021-10-29)
+[16]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 一种适用于无刷马达的定子全方位紧固结构. China. (Retrieved, Public Code: CN214543827U, Date: 2021-10-29)
 
-[12]  Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 无刷电机(PMM-S01). 中国. (Retrieved, Public Code: CN306628832S, Date: 2021-06-22)
+[17]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 无刷电机(PMM-S01). China. (Retrieved, Public Code: CN306628832S, Date: 2021-06-22)
 
-[13]  Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 无刷电机(PMM-R01). 中国. (Retrieved, Public Code: CN306695049S, Date: 2021-07-20)
+[18]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 无刷电机(PMM-R01). China. (Retrieved, Public Code: CN306695049S, Date: 2021-07-20)
 
-[14]  Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 无刷电机(PMM-RW02). 中国. (Retrieved, Public Code: CN306721444S, Date: 2021-07-30)
+[19]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 无刷电机(PMM-RW02). China. (Retrieved, Public Code: CN306721444S, Date: 2021-07-30)
 
-[15]  Chinese Patent: 李龙, 梁俊强, 刘许洋, 宋再新. 新型永磁电机(PMM-SW02). 中国. (Retrieved, Public Code: CN306760356S, Date: 2021-08-17)
+[20]  Chinese Patent: Long Li, Junqiang Liang, Xuyang Liu, **Zaixin Song**. 新型永磁电机(PMM-SW02). China. (Retrieved, Public Code: CN306760356S, Date: 2021-08-17) 
+
+<div align=left>
+<img src="https://github.com/songzaixin/aeet-outcome/raw/main/image/outcome-patent1.jpg" style="zoom:10%;" />
+<img src="https://github.com/songzaixin/aeet-outcome/raw/main/image/outcome-patent2.jpg" style="zoom:10%;" />
+</div>
+<div align=left>
+<img src="https://github.com/songzaixin/aeet-outcome/raw/main/image/outcome-patent3.jpg" style="zoom:10%;" />
+<img src="https://github.com/songzaixin/aeet-outcome/raw/main/image/outcome-patent4.jpg" style="zoom:10%;" />
+</div>
+
 
 ---
 
 # Awards
 
-09/2020: CityU 2019-2020 Chow Yei Ching School of Graduate Studies Scholarships
-
-09/2020: CityU 2019-2020 Outstanding Academic Performance Award
-
-09/2019: CityU 2018-2019 Outstanding Academic Performance Award
-
-09/2019: CityU 2018-2019 Research Tuition Scholarships for Research Degree Students
-
-07/2018: HIT Outstanding Master Degree Thesis Silver Award
-
-09/2016: HIT First-class Scholarship for Postgraduates
-
-09/2016: HIT Second-class Scholarship for Outstanding Postgraduates
-
-07/2016: HIT Outstanding Bachelor Degree Thesis
-
-12/2013: HIT Outstanding Student Award
-
-11/2013: National Scholarship for Undergraduates
-
-
-
----
-
-
-# Related Organizations
+- 02/2023: 2022 IEEE Transportation Electrification Committee Prize Ph.D. Thesis Talk Award Winner
+- 09/2020: CityU 2019-2020 Chow Yei Ching School of Graduate Studies Scholarships
+- 09/2020: CityU 2019-2020 Outstanding Academic Performance Award
+- 09/2019: CityU 2018-2019 Outstanding Academic Performance Award
+- 09/2019: CityU 2018-2019 Research Tuition Scholarships for Research Degree Students
+- 07/2018: HIT Outstanding Master Degree Thesis Silver Award
+- 09/2016: HIT First-class Scholarship for Postgraduates
+- 09/2016: HIT Second-class Scholarship for Outstanding Postgraduates
+- 07/2016: HIT Outstanding Bachelor Degree Thesis
+- 12/2013: HIT Outstanding Student Award
+- 11/2013: China National Scholarship for Undergraduates
 
 <div align=left>
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-cityu.png" alt="image-cityu" style="zoom:10%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-hit.png" alt="image-hit" style="zoom:40%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-hku.png" alt="image-hku" style="zoom:5%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-nsfc.png" alt="image-nsfc" style="zoom:30%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-ugc.png" alt="image-ugc" style="zoom:7.5%;" />
+<img src="https://github.com/songzaixin/aeet-outcome/raw/main/image/award-202008-oapa.jpg" style="zoom:10%;" />
+<img src="https://github.com/songzaixin/aeet-outcome/raw/main/image/award-201908-oapa.jpg" style="zoom:10%;" />
+</div>
+<div align=left>
+<img src="https://github.com/songzaixin/aeet-outcome/raw/main/image/award-202008-cycsgs.jpg" style="zoom:10%;" />
 </div>
 
 ---
 
-Created by *Zaixin Song*
+Related Organizations
 
-Contact Me: 
-* Email: zaixin.song@cityu.edu.hk
-* WeChat: song_zaixin
+<div align=left>
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-polyu.png" alt="image-cityu" style="zoom:15%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-cityu.png" alt="image-cityu" style="zoom:10%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-hit.png" alt="image-hit" style="zoom:40%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-hku.png" alt="image-hku" style="zoom:5%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-nsfc.png" alt="image-nsfc" style="zoom:30%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-ugc.png" alt="image-ugc" style="zoom:7.5%;" />
+</div>
+
+
+---
+
+© 2022 by Zaixin Song. All rights reserved. 
+Last Update: Feb-2023
+
